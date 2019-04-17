@@ -1,3 +1,11 @@
+---
+layout: post
+title: "System Design Foundations - Part 1 - Scalability"
+date: 2019-04-15
+excerpt: "Understanding scalability."
+tags: [System Design, scalability, load balancing]
+comments: true
+---
 # Scalability
 
 Wikipedia defines scalability as the property of a system to handle a growing amount of work by adding resources to the system. If there is an increase (or decrease) in the load of the system, the system should be able to effectivity handle it. If the system is not scalable, then the processes could slow down or fail causing interuptions in business operations. There are differnt ways of accomplishing scaling. Two of these ways are vertical scaling and horizontal scaling.
