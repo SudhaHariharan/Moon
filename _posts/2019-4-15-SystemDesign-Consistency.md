@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "System Design Foundations - Part 3 - Consistent Hashing"
+title: "System Design Foundations - Part 2 - Consistent Hashing"
 date: 2019-04-15
 excerpt: "Understanding consistent hashing."
 tags: [System Design, database]
@@ -65,5 +65,6 @@ Discord chat application
 2. http://michaelnielsen.org/blog/consistent-hashing/
 3. http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/
 4. https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
-5. 
+
+
 
