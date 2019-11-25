@@ -1,6 +1,6 @@
 ---
 layout: essay
-title: All Projects
-excerpt: "A List of Projects"
+title: General essays
+excerpt: "A Collection of essays reflecting my thoughts"
 comments: false
 ---
