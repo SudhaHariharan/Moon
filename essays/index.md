@@ -1,8 +1,6 @@
 ---
 layout: essay
-title: General Essays
-tags: [essays]
-excerpt: "A Collection of essays reflecting my thoughts"
+title: All Projects
+excerpt: "A List of Projects"
 comments: false
 ---
-
