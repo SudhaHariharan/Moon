@@ -9,7 +9,7 @@ comments: false
 ### Find The Missing Number
 In the set of numbers below, 72 and 99 are "combined" to produce 27. Then 27 and 45 are "combined" to produce 18 and so on. The final 7 is not a misprint. What is x?
 
-![Find the Number](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/FindTheNumber.png?raw=true )
+![Find the Number](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/FindTheNumber.PNG?raw=true )
 
 ### Solution
 
