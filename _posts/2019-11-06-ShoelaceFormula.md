@@ -10,12 +10,12 @@ comments: false
 
 The Shoelace formula is a mathematical algorithm to determine the area of a simple polygon whose vertices are described by their Cartesian coordinates in the plane.
 
-![alt text](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/shoelace1.png?raw=true)
+![alt text](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/shoelace1.PNG?raw=true)
 
 The method consists of cross multiplying corresponding coordinated of the different vertices of a polygon to find its area. It is called the shoelace formula because of the constant cross-multiplying for the coordinates making up the polygon like tying shoelaces.
 
 
-![alt text](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/shoelace2.png?raw=true)
+![alt text](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/shoelace2.PNG?raw=true)
 
 To apply the shoelace algorithm you will need to:
 
@@ -25,7 +25,7 @@ Calculate the sum of multiplying each y coordinate with the x coordinate in the 
 Subtract the second sum from the first, get the absolute value (Absolute dfference |sum1-sum2|,
 Divide the resulting value by 2 to get the actual area of the polygon.
 
-![alt text](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/shoelace3.png?raw=true)
+![alt text](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/shoelace3.PNG?raw=true)
 
 ## Proof
 
