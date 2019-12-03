@@ -16,7 +16,7 @@ Considering just one watch, we claim that during the passing of an hour, the ave
 
 If we sum over all of the watches we reach the same conclusion, and it follows that sometime during the hour the desired inequality is achieved.
 
-![Watches on the table](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/Watchesonthetable.png?raw=true)
+![Watches on the table](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/Watchesonthetable.PNG?raw=true)
 
 
 #### Source
