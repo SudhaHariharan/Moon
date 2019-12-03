@@ -13,7 +13,7 @@ For which n does Alice have a winning strategy? For which n does she win if the 
 ## Solution
 If n is even, Bob has a simple winning strategy no matter where Alice starts, He merely imagines a covering of the board by dominoes, each domino covering two adjacent squares of the board. Bob then plays in the other half of each domino started by Alice. (Note that this works for Bob even when Alice is allowed to mark any square she wants at each move!)
 
-![Path on a Chessboard](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/Pathonachessboard.png?raw=true)
+![Path on a Chessboard](https://github.com/SudhaHariharan/sudhahariharan.github.io/blob/master/assets/img/Pathonachessboard.PNG?raw=true)
 
  
 When n is odd, and Alice begins in a corner, she wins by imagining a domino tiling that covers every square except the corner in which she starts.
